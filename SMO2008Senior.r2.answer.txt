@@ -1,4 +1,4 @@
 QED
 5
-
+f(x)=0 or f(x)=1/2
 QED
